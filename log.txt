@@ -1,0 +1,14 @@
+2024-01-15 10:23:45 ERROR User authentication failed for user_id=123 
+2024-01-15 10:24:12 INFO Successfully processed order_id=456
+2024-01-15 10:23:45 ERROR User authentication failed for user_id=123 
+2024-01-15 10:24:12 INFO Successfully processed order_id=456
+2024-01-15 10:23:45 WARNING User authentication alert for user_id=123 
+2024-01-15 10:24:12 INFO Successfully processed order_id=456
+2024-01-15 10:23:45 ERROR User authentication failed for user_id=123 
+2024-01-15 10:24:12 INFO Successfully processed order_id=456
+2024-01-15 10:23:45 ERROR User authentication failed for user_id=123 
+2024-01-15 10:24:12 INFO Successfully processed order_id=456
+2024-01-15 10:23:45 WARNING User authentication alert for user_id=123 
+2024-01-15 10:24:12 INFO Successfully processed order_id=456
+2024-01-15 10:23:45 ERROR User authentication failed for user_id=123 
+2024-01-15 10:24:12 INFO Successfully processed order_id=456
